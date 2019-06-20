@@ -20,4 +20,4 @@ Use following command to execute code:
 ```
 $ php artisan serve
 ```
-
+define your STRIPE_API_KEY in .env file
